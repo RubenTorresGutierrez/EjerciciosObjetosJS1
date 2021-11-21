@@ -1,4 +1,17 @@
-//Rubén Torres
+/**
+*   @file ejercicio19
+*   @description Solicitar una frase desde teclado, almacenar cada palabra en un array y mostrar los siguientes datos:
+*       - La primera palabra de la frase.
+*       - La última palabra de la frase.
+*       - El número de palabras de la frase.
+*       - Todas las palabras ordenadas alfabéticamente.
+*   @version 1.0.0
+*   @author Rubén Torres <rtorresgutierrez.guadalupe@alumnado.fundacionloyola.net>
+*   @license GPL-3.0-or-later
+*   Ref: https://spdx.org/licenses/
+*
+*   Ref JSDoc: https://jsdoc.app/
+*/
 'use strict'
 
 let frase = prompt('Introduce una frase:');
